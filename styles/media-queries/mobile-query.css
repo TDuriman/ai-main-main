@@ -130,6 +130,11 @@
   .continue {
     font-size: 10px;
   }
+  .help-hover-a {
+    top: -70px;
+    left: 3px;
+    font-size: 11px;
+  }
 }
 
 @media only screen and (max-width: 1000px) and (min-width: 700px) {
@@ -173,8 +178,7 @@
     font-size: 15px;
   }
 
-  .question{
+  .question {
     font-size: 15px;
   }
 }
-
